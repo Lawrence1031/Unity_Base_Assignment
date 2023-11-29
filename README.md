@@ -44,7 +44,7 @@ https://assetstore.unity.com/packages/2d/pixelwitchery-239673
 ### 게임 디자인과 관련하여
 <details>
 
-이번 과제에서 구현하고자 하는 목표는 캐주얼한 2D 게임으로 힐링이 되는 게임을 만들어보자 가 메인이었다.
+이번 과제에서 구현하고자 하는 목표는 '캐주얼한 2D 게임으로 힐링이 되는 게임을 만들어보자'가 메인이었다.
 
 따라서 아기자기한 디자인을 가진 캐릭터를 주인공으로 하려고 하다 좋은 에셋을 만나 그 에셋을 이용하여 작업하였다.
 
@@ -394,6 +394,8 @@ public class GoStage1Trigger : MonoBehaviour
 
 </details>
 
+<br/>
+
 다음 Scene으로 이동하는 것을 알리기 위해 팝업창으로 Player에게 알림을 주었으며,
 
 잠시간의 유예 시간을 준 뒤에 이동하는 방식으로 구현하였다.
@@ -401,7 +403,7 @@ public class GoStage1Trigger : MonoBehaviour
 <br/>
 이렇게 구현하면서 추가로 생각들었던 부분은
 
-1. Player의 선택에 따라 이동할 수 있게 선택지를 주는 것인데
+Player의 선택에 따라 이동할 수 있게 선택지를 주는 것인데
 
 -> 팝업창이 베텔게우스의 숲(다음 스테이지)으로 이동하시겠습니까? -> Yes / No 선택지
    
@@ -409,8 +411,8 @@ public class GoStage1Trigger : MonoBehaviour
 
 <br/>
 
-4. 지금은 구현하지 못했던 돌아오는 경우(03_Stage1Scene에서 02_MainScene으로)에는
-5. 
+지금은 구현하지 못했던 돌아오는 경우(03_Stage1Scene에서 02_MainScene으로)에는
+
 지금의 Player는 항상 자신의 집에서 시작하므로, Player의 위치 정보를 변경하여
 
 01_StartScene에서 02_MainScene으로 오는 경우에는 집에서 시작하게
