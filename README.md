@@ -9,6 +9,8 @@
 #### 개발 환경
 ##### Unity 2022.3.2f1
 
+<br/>
+
 #### 사용한 에셋
 ##### 탑다운 2D RPG 에셋 팩
 https://assetstore.unity.com/packages/2d/characters/top-down-2d-rpg-assets-pack-188718
@@ -18,12 +20,18 @@ https://assetstore.unity.com/packages/2d/characters/top-down-2d-rpg-assets-pack-
 ##### 2D Dungeon Pixel Art Tileset
 https://assetstore.unity.com/packages/2d/environments/2d-dungeon-pixel-art-tileset-171343
 
+<br/>
+
 ##### PixelWitchery
 https://assetstore.unity.com/packages/2d/pixelwitchery-239673
+
+<br/>
 
 #### 사용한 폰트
 ##### 구글 Noto Sans Korean 폰트
 ##### https://fonts.google.com/noto/specimen/Noto+Sans+KR
+
+<br/>
 
 #### 개발 기간
 ##### 4일 (20231124 ~ 20231129)
@@ -41,7 +49,7 @@ https://assetstore.unity.com/packages/2d/pixelwitchery-239673
 
 자유로운 환경에서 가벼운 디자인의 그래픽을 보며 힐링하는 것이 이번 게임이 추구하는 목표이다.
 
-
+<br/>
 
 게임의 기본 스토리는 평범하게 마을에 살고 있는 주인공이 옆집의 친구(angel)의 요청(퀘스트)으로
 
@@ -55,7 +63,7 @@ https://assetstore.unity.com/packages/2d/pixelwitchery-239673
 
 엔딩은 주인공과 angel이 결혼해서 행복하게 사는 게임이다.
 
-
+<br/>
 
 이 게임은 특별한 전투는 없으며 캐릭터를 이동하면서 나오는 상호작용으로 채집하는 간단한 조작법을 갖고 있다.
 
@@ -64,7 +72,6 @@ https://assetstore.unity.com/packages/2d/pixelwitchery-239673
 angel과의 이벤트나 demon과의 이벤트도 이후에 관람할 수 있는 사진으로 저장된다.
 
 </details>
-
 
 ----
 
