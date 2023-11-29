@@ -17,17 +17,4 @@ public class CharacterController : MonoBehaviour
     {
         OnLookEvent?.Invoke(direction);
     }
-    
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
