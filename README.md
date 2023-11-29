@@ -401,6 +401,7 @@ public class GoStage1Trigger : MonoBehaviour
 잠시간의 유예 시간을 준 뒤에 이동하는 방식으로 구현하였다.
 
 <br/>
+
 이렇게 구현하면서 추가로 생각들었던 부분은
 
 Player의 선택에 따라 이동할 수 있게 선택지를 주는 것인데
